@@ -1,6 +1,5 @@
 from PIL import Image
 import os
-
 def encrypt_decrypt_image(input_path, output_path, key):
     try:
         img = Image.open(input_path)
