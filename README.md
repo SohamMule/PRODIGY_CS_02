@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+# Pixel Manipulation for Image Encryption
 Image Encryption/Decryption Tool
 This is a simple Python script that performs encryption and decryption on images using a bitwise XOR operation on pixel values. It's easy to use, lightweight, and works with any standard image file.
 
